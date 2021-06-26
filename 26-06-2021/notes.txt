@@ -1,0 +1,50 @@
+Date : 26th June 2021
+------------------------------------
+
+Types of Websites:
+----------------------------
+Portfolio websites
+Business websites
+E-commerse Websites
+News webstites
+Social-networking websites.....
+
+Every web application follows one architechure. Mostly MVC
+
+MVC: Model View Controller
+
+Model  : It is responsible for the data management
+View  : It is resposible for user interface
+Controller : It is responsible for Request-Response cycle
+
+Django follows MVT Arcitecture
+
+MVT : Model View Template
+
+Model : Model - database
+View : Controller
+Template : View
+
+manage.py  : It is a command line utility to interact with the project
+__init__.py : It tells the python to consider the current folder as a python package
+
+To install Django : pip install django
+To check the version : django-admin version
+To create project : django-admin startproject <project name>
+
+To start Server : python manage.py runserver
+
+url : 127.0.0.1:8000 (or) localhost:8000
+
+To stop the server : Control + C
+
+python manage.py runserver 8080
+
+
+
+
+
+
+
+
+
