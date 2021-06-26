@@ -7,6 +7,8 @@ This repo contains the content covered in the workshop Web Development using Dja
 
 ### Day1 (26 June 2021)
 - Django Introduction
+- MVC
+- Architecture of Django (MVT)
 - Django Project Creation
 
 #### [Recording Link]()
