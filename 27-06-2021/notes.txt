@@ -1,0 +1,59 @@
+Date : 27th June 2021:
+--------------------------------------
+
+Day Objectives:
+==============
+-> App creation
+-> URLs creation
+     -> static
+     -> dynamic
+-> views
+
+
+To create app : python manage.py startapp app_name
+
+
+127.0.0.1:8000/admin
+
+URLS:
+----------
+urls.py : To write url patterns
+views.py : To write the logic for urls
+
+
+path( url_pattern, view_function)
+HttpResponse : which is used to send response to the browser
+
+
+localhost:8000/Srivani
+
+"name/<str:Name>"
+
+
+
+Create a url which takes name and roll_number , Display the given name and roll number in the web page
+
+
+"localhost:8000/data/name/roll"  -----> name, roll
+
+Templates:
+----------------------
+HTML Pages
+
+
+
+MVT Architecture:
+
+M - Model  : It is responsible for data management
+V - View : request and response cycle and It contains business logic
+T - Template
+
+
+
+
+
+
+
+
+
+
