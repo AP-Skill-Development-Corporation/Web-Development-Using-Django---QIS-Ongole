@@ -11,4 +11,4 @@ This repo contains the content covered in the workshop Web Development using Dja
 - Architecture of Django (MVT)
 - Django Project Creation
 
-#### [Recording Link]()
+#### [Recording Link](https://transcripts.gotomeeting.com/#/s/e99e73452daed817f947ce2e1789b1aa4d7fa06be2f0e9405b7f4da3a41a738f)
