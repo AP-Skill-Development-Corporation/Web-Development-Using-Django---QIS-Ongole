@@ -11,7 +11,7 @@ This repo contains the content covered in the workshop Web Development using Dja
 - Architecture of Django (MVT)
 - Django Project Creation
 
-#### [Recording Link](https://transcripts.gotomeeting.com/#/s/e99e73452daed817f947ce2e1789b1aa4d7fa06be2f0e9405b7f4da3a41a738f)
+#### [Recorded Session Link](https://transcripts.gotomeeting.com/#/s/e99e73452daed817f947ce2e1789b1aa4d7fa06be2f0e9405b7f4da3a41a738f)
 
 ----
 ### Day2 (27 June 2021)
@@ -20,4 +20,10 @@ This repo contains the content covered in the workshop Web Development using Dja
 - Views
 - Templates
 
-#### [Recording Link]()
+#### The session is not recorded on this day. Probably, the technical issue of the gotomeeting app. We are sorry to inform you that we cannot provide recording of Day2.
+----
+### Day3 (28 June 2021)
+- DTL
+- Forms
+
+#### [Recorded Session Link](https://transcripts.gotomeeting.com/#/s/43760ec9979b68de652c5da9a894c8513ff707251bee4a723e9f7069c312a2be)
