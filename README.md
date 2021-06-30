@@ -27,3 +27,8 @@ This repo contains the content covered in the workshop Web Development using Dja
 - Forms
 
 #### [Recorded Session Link](https://transcripts.gotomeeting.com/#/s/43760ec9979b68de652c5da9a894c8513ff707251bee4a723e9f7069c312a2be)
+----
+### Day4 (29 June 2021)
+- Models
+- CRUD Operations
+#### [Recorded Session Link](https://transcripts.gotomeeting.com/#/s/06b68a15381eeb5fd6d60bdd13f27b749c6c5128b6b6e6ed172e4b342f3fb53b)
